@@ -1,0 +1,7 @@
+C:\Users\mhilty\source\repos\GCLab7\GCLab7\obj\Debug\GCLab7.csprojAssemblyReference.cache
+C:\Users\mhilty\source\repos\GCLab7\GCLab7\obj\Debug\GCLab7.csproj.CoreCompileInputs.cache
+C:\Users\mhilty\source\repos\GCLab7\GCLab7\bin\Debug\GCLab7.exe.config
+C:\Users\mhilty\source\repos\GCLab7\GCLab7\bin\Debug\GCLab7.exe
+C:\Users\mhilty\source\repos\GCLab7\GCLab7\bin\Debug\GCLab7.pdb
+C:\Users\mhilty\source\repos\GCLab7\GCLab7\obj\Debug\GCLab7.exe
+C:\Users\mhilty\source\repos\GCLab7\GCLab7\obj\Debug\GCLab7.pdb
